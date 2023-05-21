@@ -1,0 +1,2 @@
+#download the workload application
+curl 'https://static.us-east-1.prod.workshops.aws/public/5a801e9b-1799-4eb6-90fe-6054bda3c7cc/assets/cicd-integration/demo-application.zip' --output demo-application.zip
